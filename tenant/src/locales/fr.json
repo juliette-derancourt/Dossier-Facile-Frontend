@@ -275,7 +275,7 @@
     "no-income": "ne pas avoir de revenu",
     "income": "avoir un revenu net mensuel de {0}€",
     "copied": "Copié !",
-    "ALONE": "seul·e",
+    "ALONE": "test",
     "couple-with": "en couple avec {0}",
     "group-with": "en colocation avec {0}",
     "group-with-someone": "en colocation",
@@ -284,7 +284,7 @@
       "cannot-copy-link": "Votre lien est inactif car le dossier de votre(vos) colocataire(s) n'est pas encore validé"
     },
     "amendment-required-title": "Modifications demandées",
-    "amendment-required-text": "Après examen de votre dossier, des modifications vous sont demandées. <br>Consultez votre messagerie pour en connaître le détail.",
+    "amendment-required-text": "Après examen de votre dossier, des modifications vous sont demandées... <br>Consultez votre messagerie pour en connaître le détail.",
     "messaging": "Consulter ma messagerie",
     "instructional-time-title": "Durée d'instruction",
     "instructional-time-text": "Une fois votre dossier complété et déposé, il est pris en charge en moyenne en moins de 24h par notre équipe d'opérateurs.",
