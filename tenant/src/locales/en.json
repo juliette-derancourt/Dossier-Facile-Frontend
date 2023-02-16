@@ -449,7 +449,7 @@
   "guarantorchoice": {
     "my-guarantor": "My guarantor",
     "identification": "Pièce d’identité",
-    "residency": "Justificatif de domicile",
+    "residency": "Justificatif",
     "professional": "Justificatif de situation professionnelle",
     "financial": "Justificatif de ressources",
     "tax": "Avis d’imposition",
